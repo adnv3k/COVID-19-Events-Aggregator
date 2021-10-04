@@ -3,6 +3,9 @@ A web app that informs visitors of major COVID-19 events, both locally and globa
 
 # Features
 WIP Display recent COVID-19 events in a user provided location.
+
 WIP Feed of recent news articles ordered by most recent, location, relevancy.
+
 WIP Option to sign up for email alerts for a recent infection in a given area. 
+
 WIP Sections discussing symptoms, prevention, coping, and treatments.
